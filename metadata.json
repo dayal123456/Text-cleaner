@@ -1,0 +1,6 @@
+{
+  "name": "Narration Extractor",
+  "description": "A minimalist tool to filter out B-roll text and extract clean narration from scripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
